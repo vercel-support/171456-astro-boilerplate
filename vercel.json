@@ -1,13 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/figma",
-      "destination": "/new-figma?path=foo",
-      "permanent": false
-    },
-    {
       "source": "/vercel",
-      "destination": "https://vercel.com",
+      "destination": "https://www.google.com/search?q=vercel",
       "permanent": false
     }
   ]
