@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/vercel",
-      "destination": "https://www.google.com/search?q=vercel",
+      "destination": "https://www.google.com/search?q=vercel&foo=123",
       "permanent": false
     }
   ]
